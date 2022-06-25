@@ -1,3 +1,5 @@
+drop table if exists member;
+
 create table member
 (
     member_id varchar(10),
